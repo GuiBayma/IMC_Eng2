@@ -1,6 +1,6 @@
 package imc_java;
 //importação das classes necessárias
- //layouts para alinhamento dos componentes
+ //layouts para alinhamento dos componentes Kaique Pantosi
      import java.awt.FlowLayout;
      import java.awt.GridLayout;
      //janela
